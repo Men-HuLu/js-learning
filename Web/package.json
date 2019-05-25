@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Men-HuLu",
+  "author": "Yu minjun",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -14,6 +14,7 @@
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
     "webpack": "^4.32.2"
   }
 }
