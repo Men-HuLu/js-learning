@@ -5,4 +5,4 @@ function greet() {
     alert(message);
 }
 
-greet();
+// greet();
